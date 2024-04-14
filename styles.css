@@ -3,12 +3,12 @@ html{
 }
 body{
     margin: 0px;
-    background-color: #e7e7e7;
+    background-color: #c9d4ee;
     height: auto;
 }
 .header{
     height: 50px;
-    background-color: black;
+    background-color: #04297f;
     color: white;
     margin: 0px;
     padding-left: 30px;
@@ -27,7 +27,7 @@ body{
 
 .inputBody div{
     width: 500px;
-    border-radius: 13px;
+    border-radius: 15px;
     border: none; 
     padding: 15px;
     font-size: 15px;
@@ -39,7 +39,7 @@ body{
 
 .inputBody textarea{
     width: 500px;
-    border-radius: 13px;
+    border-radius: 15px;
     border: none; 
     padding: 15px;
     font-size: 15px;
@@ -54,9 +54,9 @@ body{
 }
 
 .buttonDiv button{
-    background-color: black;
+    background-color: #04297f;
     color: white;
-    border-radius: 5px;
+    border-radius: 7px;
     height: 40px;
     width: 100px;
     border: none;
